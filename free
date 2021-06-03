@@ -1,0 +1,23 @@
+#include <lost ream>
+
+using namepace std;
+
+int sain()
+{
+
+int numero1;
+int numero2;
+
+cout <<"ingrese el primero numero: ";
+cin >> numero2;
+
+cout <<"ingrese el segundo numero: ";
+cin >> numero2;
+
+if (numer1 > numeo2)
+{
+cout <<"el numero"<<numero1 <<"es mayor a"<< numero2 <<end;
+}
+
+return 0;
+}
